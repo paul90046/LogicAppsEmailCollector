@@ -1,0 +1,111 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "workflows_test_name": {
+            "value": null
+        },
+        "workflows_tester_name": {
+            "value": null
+        },
+        "workflows_filesync_name": {
+            "value": null
+        },
+        "workflows_SaveBlob_name": {
+            "value": null
+        },
+        "connections_azureblob_name": {
+            "value": null
+        },
+        "connections_office365_name": {
+            "value": null
+        },
+        "connections_azureblob_1_name": {
+            "value": null
+        },
+        "connections_azureblob_2_name": {
+            "value": null
+        },
+        "connections_office365_1_name": {
+            "value": null
+        },
+        "connections_webcontents_name": {
+            "value": null
+        },
+        "workflows_3_2CreateEML_name": {
+            "value": null
+        },
+        "workflows_tester_email_name": {
+            "value": null
+        },
+        "workflows_100_PSLogFile_name": {
+            "value": null
+        },
+        "connections_webcontents_1_name": {
+            "value": null
+        },
+        "connections_webcontents_2_name": {
+            "value": null
+        },
+        "connections_webcontents_3_name": {
+            "value": null
+        },
+        "workflows_0_PSEmailStart_name": {
+            "value": null
+        },
+        "workflows_1_EmailStartv2_name": {
+            "value": null
+        },
+        "workflows_0_1_GetUserData_name": {
+            "value": null
+        },
+        "workflows_0_2_GetUserData_name": {
+            "value": null
+        },
+        "storageAccounts_pdreview_name": {
+            "value": null
+        },
+        "workflows_1_PSCollectorHTTP_name": {
+            "value": null
+        },
+        "connections_wordonlinebusiness_name": {
+            "value": null
+        },
+        "workflows_2_PSCollector_Email_name": {
+            "value": null
+        },
+        "workflows_tester_delta_folder_name": {
+            "value": null
+        },
+        "workflows_4_PSModernAttachment_name": {
+            "value": null
+        },
+        "storageAccounts_pdprocessing_name": {
+            "value": null
+        },
+        "workflows_2_PSCollector_Email_v2_name": {
+            "value": null
+        },
+        "workflows_200_FileCopytoProsearch_name": {
+            "value": null
+        },
+        "workflows_3_3Sameattachmentasbinary_name": {
+            "value": null
+        },
+        "workflows_3_PSEmail_AttachmentCollector_name": {
+            "value": null
+        },
+        "workflows_5_PSEmail_AttachmentConverter_name": {
+            "value": null
+        },
+        "workflows_3_1_PS_Email_Attachment_Collector_name": {
+            "value": null
+        },
+        "workflows_3_3_2Attachmentsasbinarylookupb64_name": {
+            "value": null
+        },
+        "workflows_2_1PSCollector_Email_v2_RecoverableItems_name": {
+            "value": null
+        }
+    }
+}
